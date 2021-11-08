@@ -3,7 +3,8 @@
 
 # In[ ]:
 
-
+import pandas as pd
+import numpy as np
 
 full_data= pd.read_csv('Nairaland_df.csv',lineterminator='\n')
 full_data.head(20)
