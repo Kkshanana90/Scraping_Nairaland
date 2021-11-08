@@ -11,7 +11,7 @@ python Nairaland_pol_section.py
 # Saved CSV File 
 The generated CSV file would be saved as 'Nairaland_df.csv'
 
-# Read file. 
+# Read file 
 To read the generated 'Nairaland_df.csv' file in Jupyter Notebook, Google Colab, etc; you may want to replace 'Nairaland_df.csv' with own path in:
 full_data= pd.read_csv('Nairaland_df.csv',lineterminator='\n')
 
