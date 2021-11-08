@@ -16,7 +16,7 @@ To read the generated 'Nairaland_df.csv' file in Jupyter Notebook, Google Colab,
 'full_data= pd.read_csv('Nairaland_df.csv',lineterminator='\n')'. Codes for cleaning are available in the 'Cleaning_Nairaland_Scraping.py' file.
 
 # Number of Comments <br/>
-The script only extracts all comments in the first 10 pages as shown in "for i in range(0,10):" from the 'Nairaland_pol_section.py' file. This could be modified.
+The script only extracts all comments in the first 10 pages as shown in "for i in range(0,10):" from the 'Nairaland_pol_section.py' file.
 
 # Possible Use <br/>
 A sentiment analysis could be performed on the extracted comments.
