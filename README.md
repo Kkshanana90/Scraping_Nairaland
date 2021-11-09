@@ -6,7 +6,7 @@ Create a new Anaconda environment with Python 3.8( Other Python versions could a
 'pip install -r Requirements.txt'.
 
 # Run the Nairaland_pol_section.py file <br/>
-This could be done using 'python Nairaland_pol_section.py' on Mac.
+This could be done using 'python Nairaland_pol_section.py' on Mac's terminal.
 
 # Saved CSV File <br/>
 The generated CSV file would be saved as 'Nairaland_df.csv'
